@@ -50,3 +50,10 @@ RoboMe™ tiene algunas funciones básicas y divertidas: desde la
 cabeza móvil y los brazos con posturas hasta el control del andar y
 los juegos interactivos, incluso sin un dispositivo inteligente o una
 aplicación conectados.
+
+Inclinación de la cabeza
+Para mover la cabeza manualmente, inclínala levemente hacia arriba o hacia abajo mientras sostienes la parte superior de la cabeza del robot. Para mover la cabeza a distancia, presiona el botón TILT HEAD UP (INCLINAR CABEZA HACIA ARRIBA) o el botón TILT HEAD DOWN (INCLINAR CABEZA HACIA ABAJO), según el movimiento que desees.
+
+Brazos con posturas
+La unidad RoboMe™ tiene brazos con posturas. Si agitas el brazo derecho del robot, este detectará el movimiento y hará un comentario. Utiliza la aplicación para personalizar sus comentarios, entre otras funciones. Para saber cómo hacerlo, consulta la página 9.
+Nota: RoboMe™ no detecta movimientos con el brazo izquierdo
