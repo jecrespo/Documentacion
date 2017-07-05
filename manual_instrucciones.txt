@@ -14,3 +14,21 @@ Contenido de la caja:
 1 Unidad RoboMe™
 1 Control Remoto
 1 Manual del Usuario
+
+COMIENZO
+Cuando ya hayas introducido las pilas en la unidad RoboMe™ y en el control
+remoto, estarás listo para comenzar. Para activar el robot, lleva el interruptor de
+encendido de la parte de abajo a la posición ON (ENCENDIDO). Luego, ubica el
+robot de pie sobre una superficie grande, uniforme y plana, alejado de bordes y
+obstáculos. RoboMe™ te saludará con un comentario y aguardará que les des
+instrucciones.
+
+Funciones básicas (sin dispositivo inteligente)
+RoboMe™ es un robot que puede hablar y jugar, incluso sin un dispositivo
+inteligente o una aplicación conectados.
+
+Cómo controlar la unidad RoboMe™
+RoboMe™ tiene algunas funciones básicas y divertidas: desde la
+cabeza móvil y los brazos con posturas hasta el control del andar y
+los juegos interactivos, incluso sin un dispositivo inteligente o una
+aplicación conectados.
