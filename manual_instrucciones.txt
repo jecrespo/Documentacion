@@ -65,3 +65,5 @@ Para mover la cabeza manualmente, inclínala levemente hacia arriba o hacia abaj
 Brazos con posturas
 La unidad RoboMe™ tiene brazos con posturas. Si agitas el brazo derecho del robot, este detectará el movimiento y hará un comentario. Utiliza la aplicación para personalizar sus comentarios, entre otras funciones. Para saber cómo hacerlo, consulta la página 9.
 Nota: RoboMe™ no detecta movimientos con el brazo izquierdo
+
+FIN MANUAL
