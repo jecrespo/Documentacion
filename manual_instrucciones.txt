@@ -15,6 +15,24 @@ Contenido de la caja:
 1 Control Remoto
 1 Manual del Usuario
 
+REQUISITOS PARA LAS PILAS:
+Tu robot funciona con 4 pilas tamaño “C” alcalinas (no incluidas).
+El control remoto funciona con 3 pilas “AAA” (no incluidas).
+
+INFORMACIÓN IMPORTANTE SOBRE LAS PILAS:
+• Utiliza únicamente pilas nuevas del tipo y voltaje recomendados
+• No mezcles pilas nuevas con otras usadas, ni tampoco pilas de distinto tipo, como por ejemplo, pilas
+alcalinas con pilas normales (de carbono-zinc) o recargables, ni pilas recargables de
+capacidades diferentes
+• Retira las pilas recargables del juguete antes de recargarlas
+• Las pilas recargables solo deberán recargarse bajo la supervisión de un adulto
+
+INDICADORES DE QUE LAS PILAS SE ESTÁN ACABANDO:
+• Cuando las pilas de RoboMe™ no tengan mucha carga, la unidad se moverá muy despacio. Cuando esto
+suceda, apaga el robot y cambia todas las pilas.
+• Cuando las pilas del control remoto no tengan mucha carga, es posible que no puedas enviar comandos
+al robot, que tampoco podrá responder. Cuando esto suceda, cambia todas las pilas.
+
 COMIENZO
 Cuando ya hayas introducido las pilas en la unidad RoboMe™ y en el control
 remoto, estarás listo para comenzar. Para activar el robot, lleva el interruptor de
