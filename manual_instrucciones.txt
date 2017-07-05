@@ -15,6 +15,10 @@ Contenido de la caja:
 1 Control Remoto
 1 Manual del Usuario
 
+REQUISITOS PARA LAS PILAS:
+Tu robot funciona con 4 pilas tamaño “C” alcalinas (no incluidas).
+El control remoto funciona con 3 pilas “AAA” (no incluidas).
+
 COMIENZO
 Cuando ya hayas introducido las pilas en la unidad RoboMe™ y en el control
 remoto, estarás listo para comenzar. Para activar el robot, lleva el interruptor de
